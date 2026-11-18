@@ -1,4 +1,4 @@
-# SolidMove Technology Limited
+# SolidMove Technology LIMITED
 
 **RC 9619709 · Benin City, Edo State, Nigeria**
 
@@ -32,7 +32,7 @@ A technology, software and systems architecture company. We build, integrate and
 ## How the pieces fit
 
 ```
-SOLIDMOVE TECHNOLOGY LIMITED
+SolidMove Technology LIMITED
         ↓
     Steph-Tech (ecosystem)
         ↓
